@@ -1,10 +1,10 @@
 # Spring-Framework-com-Spring-Boot📚
 
-### Criando um projetinho simples mas que aborda quases todos recursos essenciais para qualquer aplicaçao , abordado tambem a exploraçao  de inversão de controlhe e injeçao de dependencia que e o core do framework spring:
+### Criando um projetinho simples mas que aborda quase todos recursos essenciais para qualquer aplicação , abordado também a exploração de inversão de controle e injeção de dependência que e o core do framework Spring:
 <br>
 <img src="./projetofinaly/projeto.JPG"/>
 
-### Uma interacão simples com o  banco de dados : 
+### Uma interação simples com o banco de dados :
 <br>
 <img src="./projetofinaly/banco-de-dados.JPG"/>
 
